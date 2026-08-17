@@ -86,6 +86,14 @@
 - **Skills**: Event sourcing, eventual consistency, scalable async systems
 - **Use Cases**: Real-time data processing, decoupled service communication
 
+### 🔴 Design Patterns
+**POC of Pragmatic Use Cases of Essential Design Patterns in C#**
+- **Creational Patterns**: Singleton, Factory, Builder, Prototype implementations
+- **Structural Patterns**: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+- **Behavioral Patterns**: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+- **Real-World Use Cases**: Practical examples demonstrating when and why to use each pattern
+- **Skills**: Design principles, SOLID principles, code reusability, maintainability
+
 ### ☁️ Practical Azure Services Integration
 **Enterprise Cloud Solutions with Azure**
 - **[Azure-ADAuthentication](https://github.com/rohitrawal-git/AzureWebAPIs)** - Azure Active Directory integration for secure authentication
@@ -107,6 +115,8 @@
 ## 📊 Key Skills & Experience
 
 ✅ **Architectural Patterns**: DDD, Clean Architecture, CQRS, Vertical Slice, Microservices patterns
+
+✅ **Design Patterns in C#**: Creational, Structural, and Behavioral patterns with pragmatic use cases
 
 ✅ **Containerization**: Docker, Docker Compose, Image optimization, Multi-stage builds
 
@@ -140,6 +150,7 @@
 - Zero-trust security in microservices
 - Domain-Driven Design advanced patterns
 - Event Sourcing and CQRS deep dives
+- Advanced Design Patterns applications
 
 ---
 
