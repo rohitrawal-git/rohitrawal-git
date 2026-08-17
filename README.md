@@ -1,165 +1,198 @@
-## Hey there, I'm Rohit Rawal 👋
+## 🌟 Hey there, I'm Rohit Rawal
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-brightgreen" alt="Developer Badge" /> <img src="https://img.shields.io/badge/Docker-Kubernetes-blue" alt="DevOps Badge" /> <img src="https://img.shields.io/badge/Microservices-Architecture-orange" alt="Microservices Badge" />
+<img src="https://github.com/user-attachments/assets/d7203b13-ace5-41d1-8a2c-4d5ebbf6752c" alt="wave" style="width:20px;height:20px" /> A Full Stack Developer crafting **scalable microservices** with **Docker, Kubernetes & Cloud Architecture**
 
----
+🚀 I'm proficient in **.NET Core, Node.js, React.js, Angular, Next.js** along with **Event-Driven Architecture & Microservices**
 
-### 🚀 About Me
+🐳 I'm currently building **Distributed systems** with **Kubernetes orchestration, Docker containerization & Cloud Services**
 
-💼 I'm proficient in **Full Stack Development** with deep expertise in **Cloud Infrastructure, Containerization & Microservices Architecture**
-
-🐳 Strong hands-on experience with **Docker, Kubernetes, and Event-Driven Microservices**
-
-🏗️ Passionate about building **Scalable, Distributed Systems** using modern architectural patterns
-
-📚 Currently mastering **Advanced Kubernetes orchestration** and **Service Mesh implementations**
+📚 I'm currently learning **Advanced Kubernetes patterns, Service Mesh (Istio), and Infrastructure as Code**
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Core Expertise
 
-### Backend & Frameworks
-- **.NET Core / ASP.NET** - Enterprise microservices
-- **Node.js** - Real-time applications
-- **C#** - Backend services
-
-### Architectural Patterns
-- **Domain-Driven Design (DDD)** - Strategic design
-- **Clean Architecture** - Maintainable code structure
-- **CQRS** - Command Query Responsibility Segregation
-- **Vertical Slice Architecture** - Feature-organized code
-- **Microservices** - Distributed systems
-
-### Frontend
-- **React.js** - Interactive UIs
-- **Angular** - Enterprise applications
-- **Next.js** - Full-stack React apps
-- **TypeScript/JavaScript** - Type-safe development
-
-### Cloud & DevOps
-- **Docker** - Containerization & image management
-- **Kubernetes** - Container orchestration & deployment
-- **Microservices Communication** - RabbitMQ, Kafka, gRPC
-- **Azure** - Cloud services (AAD, Functions, Cosmos DB, Storage, etc.)
-- **CI/CD Pipelines** - Automated deployments
-
-### Message Queuing & Event-Driven
-- **RabbitMQ** - Message broker with MassTransit
-- **Apache Kafka** - Pub-Sub event streaming
-- **MassTransit** - .NET distributed messaging
-- **Event-Driven Architecture** - Async communication patterns
-
-### Databases
-- **SQL Server** - Relational databases
-- **MongoDB** - NoSQL solutions
-- **Cosmos DB** - Azure managed databases
-- **Redis** - Caching solutions
-- **Entity Framework (EF)** - ORM solutions
+<img src="https://img.shields.io/badge/Microservices-Architecture-critical?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices" /> <img src="https://img.shields.io/badge/Docker-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps" /> <img src="https://img.shields.io/badge/.NET-C%23-purple?style=for-the-badge&logo=csharp&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 
 ---
 
-## 📁 Featured Projects
+## 🎯 Featured Projects
 
-### 🔴 E-Commerce-Microservices
-**Advanced Microservices with Enterprise Patterns**
-- **Architecture**: DDD (Domain-Driven Design) + Vertical Slice Architecture + Clean Architecture
-- **Design Pattern**: CQRS (Command Query Responsibility Segregation)
-- **Messaging**: RabbitMQ with MassTransit for Event-Driven Communication
-- **Deployment**: Docker Containerization with multi-container orchestration
-- **Skills**: Microservice decomposition, event sourcing, async workflows
+### 🔥 E-Commerce-Microservices
+**Advanced Enterprise Microservices with DDD & CQRS**
+- **Architecture**: Domain-Driven Design (DDD) + Vertical Slice + Clean Architecture
+- **Patterns**: CQRS (Command Query Responsibility Segregation)
+- **Messaging**: RabbitMQ with MassTransit - Event-Driven Communication
+- **Containerization**: Docker multi-container orchestration
+- **Key Skills**: Microservice decomposition, event sourcing, async workflows, domain events
 
-### 🔴 .Net-Microservices
-**Distributed .NET Services with Advanced Communication**
-- **Inter-Service Communication**: RabbitMQ (async) + gRPC (synchronous) client-server
-- **Orchestration**: Kubernetes configuration with:
-  - NodePort Services (external access)
-  - ClusterIP Services (internal communication)
-  - Load Balancer (traffic distribution)
-- **Deployment**: Production-ready K8s manifests and deployment strategies
-- **Skills**: Service mesh patterns, load balancing, container orchestration
+---
 
-### 🔴 Kafka-Service & RabbitMQ-Service Messaging
+### 🔥 .Net-Microservices
+**Distributed .NET Services with Advanced Communication Patterns**
+- **Inter-Service Communication**:
+  - 🔄 RabbitMQ (Async messaging)
+  - ⚡ gRPC (Synchronous RPC)
+  - 📡 Kafka (Event streaming)
+- **Kubernetes Orchestration**:
+  - 🌐 NodePort Services (external access)
+  - 🔗 ClusterIP Services (internal mesh communication)
+  - ⚖️ Load Balancer (traffic distribution)
+- **Production Ready**: K8s manifests, deployment strategies, service discovery
+- **Key Skills**: Service-to-service patterns, load balancing, container orchestration, network policies
+
+---
+
+### 🔥 Kafka-Service & RabbitMQ-Service Messaging
 **Event-Driven Architecture & Message Brokers**
-- **Kafka**: Pub-Sub communication patterns and event streaming
-- **RabbitMQ**: Multiple queue approaches and messaging patterns
-- **Concepts**: Topic-based publishing, queue-based consumption, message routing
-- **Skills**: Event sourcing, eventual consistency, scalable async systems
-- **Use Cases**: Real-time data processing, decoupled service communication
+- **Kafka Implementation**:
+  - Pub-Sub communication patterns
+  - Topic-based event streaming
+  - Consumer group management
+- **RabbitMQ Implementation**:
+  - Multiple queue approaches (fanout, direct, topic)
+  - Message routing strategies
+  - Dead letter queues & retries
+- **Concepts**: Event sourcing, eventual consistency, scalable async systems
+- **Use Cases**: Real-time data processing, system decoupling, event aggregation
 
-### 🔴 Design Patterns
-**POC of Pragmatic Use Cases of Essential Design Patterns in C#**
-- **Creational Patterns**: Singleton, Factory, Builder, Prototype implementations
+---
+
+### 🔥 Design Patterns
+**POC of Pragmatic C# Design Patterns with Real-World Use Cases**
+- **Creational Patterns**: Singleton, Factory, Abstract Factory, Builder, Prototype
 - **Structural Patterns**: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
-- **Behavioral Patterns**: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
-- **Real-World Use Cases**: Practical examples demonstrating when and why to use each pattern
-- **Skills**: Design principles, SOLID principles, code reusability, maintainability
+- **Behavioral Patterns**: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor, Interpreter
+- **Real-World Applications**: Practical examples showing when & why to use each pattern
+- **Key Concepts**: SOLID principles, design principles, code reusability, maintainability patterns
+
+---
 
 ### ☁️ Practical Azure Services Integration
-**Enterprise Cloud Solutions with Azure**
-- **[Azure-ADAuthentication](https://github.com/rohitrawal-git/AzureWebAPIs)** - Azure Active Directory integration for secure authentication
-- **[Azure-Function & CosmosDB](https://github.com/rohitrawal-git/AzureCosmosCrud)** - Serverless functions with managed NoSQL databases
-- **[Azure-Queue](https://github.com/rohitrawal-git/AzureQueueStorage)** - Async message processing with Azure Queue Storage
-- **[Azure-BlobService](https://github.com/rohitrawal-git/AzureWebAPIs/tree/master/Service)** - Cloud file storage and blob management
-- **ORM**: Entity Framework for data access layer
-- **Skills**: Managed services, scalability, serverless architecture
+**Enterprise Cloud Solutions with Azure Managed Services**
 
-### 🎯 HealthBook-App
+**Core Azure Services:**
+- **[Azure-ADAuthentication](https://github.com/rohitrawal-git/AzureWebAPIs)** → Secure authentication with Azure Active Directory
+- **[Azure-Functions & CosmosDB](https://github.com/rohitrawal-git/AzureCosmosCrud)** → Serverless compute with managed NoSQL database
+- **[Azure-Queue-Storage](https://github.com/rohitrawal-git/AzureQueueStorage)** → Async message processing & job queuing
+- **[Azure-BlobService](https://github.com/rohitrawal-git/AzureWebAPIs/tree/master/Service)** → Cloud file storage & blob management
+
+**Technical Stack**: Entity Framework ORM, managed identities, service principals, scalability patterns
+
+---
+
+### 🎨 HealthBook-App
 **Full-Stack Health Management Application**
-- **Frontend**: Modern JavaScript/TypeScript development
-- **Frameworks**: Next.js, React.js, and Angular
-- **Skills**: Responsive design, state management, interactive UIs
+- **Frontend Technologies**: Modern JavaScript/TypeScript development
+- **Frameworks Used**: Next.js, React.js, Angular
+- **Skills Demonstrated**: Responsive design, state management, interactive UIs, cross-framework expertise
 - **Architecture**: Full-stack development across multiple modern frameworks
 
 ---
 
-## 📊 Key Skills & Experience
+## 💪 Technical Expertise
 
-✅ **Architectural Patterns**: DDD, Clean Architecture, CQRS, Vertical Slice, Microservices patterns
+### Backend & Frameworks
+- **.NET Core / ASP.NET Core** - Enterprise microservices & APIs
+- **Node.js** - Real-time applications & backend services
+- **C#** - SOLID principles & design patterns
 
-✅ **Design Patterns in C#**: Creational, Structural, and Behavioral patterns with pragmatic use cases
+### Architectural Patterns
+- **Domain-Driven Design (DDD)** - Strategic domain modeling
+- **Clean Architecture** - Layered, maintainable code structure
+- **CQRS** - Command Query Responsibility Segregation
+- **Vertical Slice Architecture** - Feature-organized code organization
+- **Microservices Patterns** - Service decomposition, communication, resilience
 
-✅ **Containerization**: Docker, Docker Compose, Image optimization, Multi-stage builds
+### Cloud & Container Orchestration
+- **Docker** - Image creation, multi-stage builds, registry management
+- **Kubernetes** - Production deployments, scaling, networking, ingress
+- **Azure Cloud** - App Service, Functions, Cosmos DB, Storage, Container Registry, AAD
 
-✅ **Orchestration**: Kubernetes (Deployments, Services with NodePort/ClusterIP/LoadBalancer, Ingress, ConfigMaps, Secrets)
+### Message Queuing & Event-Driven
+- **RabbitMQ** - Message broker with MassTransit integration
+- **Apache Kafka** - Pub-Sub event streaming & log aggregation
+- **MassTransit** - .NET distributed messaging framework
+- **Event-Driven Architecture** - Async communication & event sourcing
 
-✅ **Microservices Communication**: 
-- Event-Driven with RabbitMQ + MassTransit
-- Pub-Sub with Kafka
-- Synchronous with gRPC
+### Frontend Technologies
+- **React.js** - Component-based UI development
+- **Angular** - Enterprise framework development
+- **Next.js** - Full-stack React applications
+- **TypeScript/JavaScript** - Type-safe development
 
-✅ **Message Queuing**: RabbitMQ (multiple queue patterns), Apache Kafka (Pub-Sub streaming)
+### Databases & Persistence
+- **SQL Server** - Relational data modeling
+- **MongoDB** - Document-based NoSQL
+- **Cosmos DB** - Azure's globally distributed database
+- **Redis** - In-memory caching & session management
+- **Entity Framework (EF)** - ORM for data access
 
-✅ **Cloud Platforms**: Azure (App Service, Functions, Cosmos DB, Storage, Queue, Container Registry, AAD)
+### DevOps & CI/CD
+- **GitHub Actions** - Workflow automation
+- **Azure Pipelines** - Build & release pipelines
+- **Docker Registry** - Image distribution & versioning
 
-✅ **CI/CD**: GitHub Actions, Azure Pipelines, Docker Registry automation
+---
 
-✅ **API Development**: RESTful APIs, gRPC services, Async messaging, Event-driven architecture
+## 🚀 Key Achievements
 
-✅ **Database Design**: SQL Server, MongoDB, Cosmos DB, Redis caching, Entity Framework ORM
+✅ Built **enterprise microservices** with DDD, CQRS, and event-driven patterns
 
-✅ **Frontend Development**: React.js, Angular, Next.js with TypeScript/JavaScript
+✅ Orchestrated **containerized applications** with Kubernetes (NodePort, ClusterIP, LoadBalancer)
+
+✅ Implemented **event-driven systems** using RabbitMQ + MassTransit and Kafka
+
+✅ Designed **communication patterns** between microservices (async RabbitMQ, sync gRPC)
+
+✅ Integrated **Azure cloud services** (Functions, Cosmos DB, Queue, Storage, AAD)
+
+✅ Demonstrated **design patterns** in real-world C# applications
+
+✅ Developed **full-stack applications** with React, Angular, and Next.js
+
+✅ Architected **scalable solutions** following Clean Architecture principles
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Kubernetes patterns (StatefulSets, DaemonSets, Operators, Custom Resources)
-- Service Mesh implementations (Istio, Linkerd)
-- Infrastructure as Code (Terraform, Helm)
-- GitOps workflows
-- Zero-trust security in microservices
-- Domain-Driven Design advanced patterns
-- Event Sourcing and CQRS deep dives
-- Advanced Design Patterns applications
+- 🔍 Advanced Kubernetes patterns (StatefulSets, DaemonSets, Custom Resources)
+- 🕸️ Service Mesh technologies (Istio, Linkerd)
+- 🏗️ Infrastructure as Code (Terraform, Helm charts)
+- 🔄 GitOps workflows & continuous deployment
+- 🔐 Zero-trust security in microservices
+- 📖 Domain-Driven Design deep dives
+- 💾 Event Sourcing & CQRS advanced patterns
 
 ---
 
-## 📫 Let's Connect!
+## 📊 Quick Stats
 
-- **GitHub**: [@rohitrawal-git](https://github.com/rohitrawal-git)
-- **LinkedIn**: [Rohit Kumar Rawal](https://www.linkedin.com/in/rohitkumarrawal/)
-- **Email**: rohitrawalit@gmail.com
+| Category | Expertise |
+|----------|-----------|
+| **Languages** | C#, JavaScript/TypeScript |
+| **Frameworks** | .NET Core, Node.js, React, Angular, Next.js |
+| **Containers** | Docker, Docker Compose, Kubernetes |
+| **Cloud** | Azure (8+ services) |
+| **Messaging** | RabbitMQ, Kafka, MassTransit |
+| **Databases** | SQL Server, MongoDB, Cosmos DB, Redis |
+| **Architecture** | Microservices, DDD, CQRS, Clean Architecture |
 
 ---
 
-**"Building scalable, event-driven microservices with modern cloud architecture and containerized deployments."** 🚀
+## 📫 Connect With Me
+
+**GitHub** → [@rohitrawal-git](https://github.com/rohitrawal-git)  
+**LinkedIn** → [Rohit Kumar Rawal](https://www.linkedin.com/in/rohitkumarrawal/)  
+**Email** → rohitrawalit@gmail.com
+
+---
+
+## 🎯 My Mantra
+
+> **"Building scalable, event-driven microservices with modern cloud architecture, containerized deployments, and enterprise design patterns."**
+
+---
+
+*Last Updated: August 2026*
