@@ -21,7 +21,7 @@
 ### Backend & Frameworks
 - **.NET Core / ASP.NET** - Enterprise microservices
 - **Node.js** - Real-time applications
-- **Java** - Backend services
+- **C#** - Backend services
 
 ### Architectural Patterns
 - **Domain-Driven Design (DDD)** - Strategic design
